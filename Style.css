@@ -1,27 +1,29 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body {
     color: red;
+    font - family: 'Oswald', sans- serif;
 }
 
-h1{
+h1 {
     color: blue;
 }
 
-h2{
+h2 {
     color: green;
 }
 
-h3{
+h3 {
     color: turquoise;
 }
 
-p{
+p {
     color: chocolate;
 }
 
-#lib-header{
+#lib-header {
     color: pink;
 }
 
-.para{
+.para {
     color: blueviolet
 }
